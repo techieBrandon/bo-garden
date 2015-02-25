@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "bo-garden"
+        }, 
+        "bo-garden": {
+            "applicationId": "PC5FdxhS2owHQV3JSlRlTi5Bp4rDWEkCBDjzhTgA", 
+            "masterKey": "11XKWwpB3IrBb2zSR6tbYkAuDQBySUY7s6VCBHbU"
+        }
+    }
+}
